@@ -1,4 +1,10 @@
 streamlit
 pandas
+plotly
 groq
-python_dotenv
+python-dotenv
+google-play-scraper
+fastapi
+uvicorn
+python-multipart
+pydantic
